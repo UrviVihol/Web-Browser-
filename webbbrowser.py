@@ -51,6 +51,6 @@ class MainWindow(QMainWindow):
 
 #TheExecutioncode
 app = QApplication(sys.argv)
-QApplication.setApplicationName('TheAryanSherathiyaBrowser')
+QApplication.setApplicationName('TheUrviViholBrowser')
 window = MainWindow()
 app.exec_()
